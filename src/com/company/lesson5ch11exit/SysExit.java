@@ -14,3 +14,4 @@ public class SysExit {
         System.out.println("этот оператор метода выполняться не будет ");
     }
 }
+// System.exit() применять  в крайнем случае. Лучше return, break или continue, если можно.
